@@ -15,3 +15,5 @@
 
 # API directory is built by Umi
 /api
+
+.env
